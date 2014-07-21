@@ -2,6 +2,10 @@
 
 To install or update CocoaPods see this [guide](http://docs.cocoapods.org/guides/installing_cocoapods.html).
 
+* Fixed missing XCTest framework in Xcode 6
+  [Paul Williamson](squarefrog)
+  [#2296](https://github.com/CocoaPods/CocoaPods/issues/2296)
+
 ## 0.33.1
 
 ##### Bug Fixes
