@@ -6,6 +6,25 @@ To install or update CocoaPods see this [guide](http://docs.cocoapods.org/guides
   [Paul Williamson](squarefrog)
   [#2296](https://github.com/CocoaPods/CocoaPods/issues/2296)
 
+* Support multiple values in ARCHS.  
+  [Robert Zuber](https://github.com/z00b)
+  [#1904](https://github.com/CocoaPods/CocoaPods/issues/1904)
+
+* Fixed static analysis in Xcode 6
+  [Samuel Giddins](segiddins)
+  [#2402](https://github.com/CocoaPods/CocoaPods/issues/2402)
+
+* Fixes an issue where version of a spec will not be locked when using multiple
+  subspecs of a podspec.  
+  [Kyle Fuller](https://github.com/kylef)
+  [Fabio Pelosin](https://github.com/fabiopelosin)
+  [#2135](https://github.com/CocoaPods/CocoaPods/issues/2135)
+
+* Fixes an issue using JSON podspecs from a repository.  
+  [Kyle Fuller](https://github.com/kylef)
+  [#2320](https://github.com/CocoaPods/CocoaPods/issues/2320)
+
+
 ## 0.33.1
 
 ##### Bug Fixes
